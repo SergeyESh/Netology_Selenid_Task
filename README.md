@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ww40w6r5ompon8us?svg=true)](https://ci.appveyor.com/project/SergeyESh/netology-selenid-task)
